@@ -9,7 +9,7 @@
 //     chunk = (char*) malloc(1000000);
 //     printf("Allocating\n");
 //     }
-// }
+// } 
 
 
 // Undefined behavior example - not initializing the pointer before dereferencing it
